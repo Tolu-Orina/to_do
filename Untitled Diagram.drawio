@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T12:41:19.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.5" etag="WxILyZUy2CqSCzYI5p5e" type="github"><diagram id="Lrnq9Q04jNV5DMNjMBv_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-13T12:47:19.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.5" etag="wcwyGfB4azXOc_By5QqI" type="github">
+  <diagram id="w68MQolweoRhhRkNGBzE" name="Page-1">
+    <mxGraphModel dx="880" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bHkKXl8QAhqT3Kttej_F-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="40" width="600" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="bHkKXl8QAhqT3Kttej_F-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloud_2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="bHkKXl8QAhqT3Kttej_F-1">
+          <mxGeometry width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHkKXl8QAhqT3Kttej_F-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bucket_with_objects;fillColor=#E05243;gradientColor=none;" vertex="1" parent="bHkKXl8QAhqT3Kttej_F-1">
+          <mxGeometry x="90" y="155" width="60" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bHkKXl8QAhqT3Kttej_F-4" value="AWS Glue crawler" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.glue;" vertex="1" parent="bHkKXl8QAhqT3Kttej_F-1">
+          <mxGeometry x="210" y="55" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bHkKXl8QAhqT3Kttej_F-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.glue;fillColor=#F58534;gradientColor=none;" vertex="1" parent="bHkKXl8QAhqT3Kttej_F-1">
+          <mxGeometry x="198.75" y="230" width="82.5" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="bHkKXl8QAhqT3Kttej_F-6" value="Amazon Athena" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.athena;" vertex="1" parent="bHkKXl8QAhqT3Kttej_F-1">
+          <mxGeometry x="360" y="100" width="80" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
